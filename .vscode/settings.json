@@ -1,0 +1,36 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5F071E",
+    "titleBar.activeBackground": "#850A2A",
+    "titleBar.activeForeground": "#FFFBFC"
+  },
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Sql",
+      "database": "assignment05",
+      "username": "root"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "1",
+      "database": "assignment05",
+      "username": "root",
+      "password": ""
+    }
+  ]
+}
